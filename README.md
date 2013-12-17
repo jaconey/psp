@@ -1,4 +1,4 @@
-psp
+PSP
 ===
 
 Python Sampling Profile tool
