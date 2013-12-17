@@ -1,4 +1,4 @@
 PSP
 ===
 
-Python Sampling Profile tool
+Python Statistical Profiler.

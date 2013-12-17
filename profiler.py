@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 
-"""A periodic sampling profiler."""
+"""A python statistical profiler."""
 
 import json
 import signal
