@@ -24,7 +24,7 @@ Data processing
 
 Since that all data are serialized in JSON format, it is easy to convert them into other representations. 
  
-A example script that parse and output the result to DOT format is included in the source code. Some one have been using the result on a website, which is drawed by [D3.js] [1] 
+A example [script](outdot.py) that parse and output the result to DOT format is included in the source code. Some one have been using the result on a website, which is drawed by [D3.js] [1] 
 [1]: http://d3js.org/ "D3 Javascript liberary"
 
 Reference
